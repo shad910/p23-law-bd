@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Br. Arefin Rahman",
+    "image": "https://i.ibb.co.com/4RzbTFMy/men-1-min.jpg",
+    "specialty": "Criminal Law",
+    "experience": "12+",
+    "licenseNumber": "BDCRL120034",
+    "availability": ["Sunday", "Tuesday", "Thursday"],
+    "fee": "5000",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Adv. Salma Akhter",
+    "image": "https://i.ibb.co.com/1fpy0L8y/women-1-min.jpg",
+    "specialty": "Family Law",
+    "experience": "8+",
+    "licenseNumber": "BDFML089876",
+    "availability": ["Monday", "Wednesday", "Saturday"],
+    "fee": "3500",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Adv. Tanjim Hossain",
+    "image": "https://i.ibb.co.com/Dfjz8GyK/men-2-min.jpg",
+    "specialty": "Corporate Law",
+    "experience": "15+",
+    "licenseNumber": "BDCORP150078",
+    "availability": ["Sunday", "Tuesday", "Friday"],
+    "fee": "7000",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Br. Nusrat Jahan",
+    "image": "https://i.ibb.co.com/5WNdm60G/women-2-min.jpg",
+    "specialty": "Immigration Law",
+    "experience": "9+",
+    "licenseNumber": "BDIMG099123",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "fee": "6000",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Adv. Mehedi Hasan",
+    "image": "https://i.ibb.co.com/Jjt3GxjY/men-3-min.jpg",
+    "specialty": "Civil Law",
+    "experience": "11+",
+    "licenseNumber": "BDCIV112567",
+    "availability": ["Tuesday", "Thursday", "Saturday"],
+    "fee": "4000",
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Br. Farhana Islam",
+    "image": "https://i.ibb.co.com/nM1Z4vfF/women-3-min.jpg",
+    "specialty": "Tax Law",
+    "experience": "10+",
+    "licenseNumber": "BDTAX101998",
+    "availability": ["Sunday", "Monday", "Wednesday"],
+    "fee": "5500",
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Adv. Jahidul Kabir",
+    "image": "https://i.ibb.co.com/Lz72GBNf/men-4-min.jpg",
+    "specialty": "Labor Law",
+    "experience": "7+",
+    "licenseNumber": "BDLAB076321",
+    "availability": ["Tuesday", "Thursday", "Friday"],
+    "fee": "3000",
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Br. Rina Afroz",
+    "image": "https://i.ibb.co.com/YB9HZB5K/women-4-min.jpg",
+    "specialty": "Human Rights Law",
+    "experience": "13+",
+    "licenseNumber": "BDHRL130546",
+    "availability": ["Monday", "Wednesday", "Saturday"],
+    "fee": "6500",
+    "available": true
+  },
+  {
+    "id": 9,
+    "name": "Adv. Kamrul Hasan",
+    "image": "https://i.ibb.co.com/jPcFx437/men-5-min.jpg",
+    "specialty": "Intellectual Property Law",
+    "experience": "14+",
+    "licenseNumber": "BDIPL145789",
+    "availability": ["Sunday", "Thursday", "Saturday"],
+    "fee": "7200",
+    "available": false
+  },
+  {
+    "id": 10,
+    "name": "Br. Shaila Rahman",
+    "image": "https://i.ibb.co.com/QjjWKfNx/women-5-min.jpg",
+    "specialty": "Constitutional Law",
+    "experience": "16+",
+    "licenseNumber": "BDCON160456",
+    "availability": ["Tuesday", "Friday", "Saturday"],
+    "fee": "8000",
+    "available": false
+  },
+  {
+    "id": 11,
+    "name": "Adv. Nurul Alam",
+    "image": "https://i.ibb.co.com/vvh7NVTf/men-6-min.jpg",
+    "specialty": "Environmental Law",
+    "experience": "6+",
+    "licenseNumber": "BDENV067832",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "fee": "3600",
+    "available": false
+  },
+  {
+    "id": 12,
+    "name": "Br. Mahbuba Chowdhury",
+    "image": "https://i.ibb.co.com/5X2r08V6/women-6-min.jpg",
+    "specialty": "Cyber Law",
+    "experience": "5+",
+    "licenseNumber": "BDCYB051902",
+    "availability": ["Sunday", "Tuesday", "Thursday"],
+    "fee": "4800",
+    "available": false
+  }
+]

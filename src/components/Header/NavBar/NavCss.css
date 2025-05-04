@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+nav ul a.active {
+    @apply
+    rounded-none
+    p-1.5
+   border-b-2
+   border-[#0EA106]
+}
+
+nav ul a:hover{
+    @apply
+    bg-slate-200 
+}
